@@ -25,24 +25,29 @@ TaskWise is a web application built using React.js and advanced React Hooks such
 1. Clone the repository:
 ```
 git clone https://github.com/Miraj8280/taskwise-curlistic-assignment.git
-
 ```
 
 2. Change to the project directory:
-`cd todo-app-curlistic-assignment`
+```
+cd todo-app-curlistic-assignment
+```
 
 3. Install dependencies:
-`npm install`
+```
+npm install
+```
 
 ### Runnign the Application 
 
 1. Start the development server:
-`npm start`
+```
+npm start
+```
 
 2. Open your web browser and go to http://localhost:3000 to access the application.
 
 
-### Features & Usage Instructions
+## Features & Usage Instructions
 
 - Add Todo: Enter a task in the input field and click the "Add" button. The task will be added to the list of todos.
 
