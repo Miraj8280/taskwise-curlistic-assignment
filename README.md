@@ -4,15 +4,15 @@ TaskWise is a web application built using React.js and advanced React Hooks such
 
 ## Features
 
-- Add Todo: Users can add new todos by entering a task in the input field and clicking the "Add" button. The new task will be added to the list of todos.
+- __Add Todo__: Users can add new todos by entering a task in the input field and clicking the "Add" button. The new task will be added to the list of todos.
 
-- Delete Todo: Users can delete a todo by double-clicking on the task. The task will be removed from the list of todos.
+- __Delete Todo__: Users can delete a todo by double-clicking on the task. The task will be removed from the list of todos.
 
-- Check/Uncheck Todo: Users can check/uncheck a todo by double-clicking on the check icon. The status of the task will be toggled between checked and unchecked, and the task will be visually updated with a strike-through effect when checked.
+- __Check/Uncheck Todo__: Users can check/uncheck a todo by double-clicking on the check icon. The status of the task will be toggled between checked and unchecked, and the task will be visually updated with a strike-through effect when checked.
 
-- Sort Todos: Users can sort the todos using the drag and drop feature. They can drag and drop a todo item to reorder the list of todos according to their preference.
+- __Sort Todos__: Users can sort the todos using the drag and drop feature. They can drag and drop a todo item to reorder the list of todos according to their preference.
 
-- Grid/List View: Users can switch between grid and list view to display the todos. Grid view displays todos as cards in a grid layout, while list view displays todos as a vertical list.
+- __Grid/List View__: Users can switch between grid and list view to display the todos. Grid view displays todos as cards in a grid layout, while list view displays todos as a vertical list.
 
 ## Usage
 
@@ -47,31 +47,31 @@ npm start
 2. Open your web browser and go to http://localhost:3000 to access the application.
 
 
-## Features & Usage Instructions
+### Usage Instructions
 
-- Add Todo: Enter a task in the input field and click the "Add" button. The task will be added to the list of todos.
+- __Add Todo__: Enter a task in the input field and click the "Add" button. The task will be added to the list of todos.
 
-- Delete Todo: Double-click on a task to delete it. The task will be removed from the list of todos.
+- __Delete Todo__: Double-click on a task to delete it. The task will be removed from the list of todos.
 
-- Check/Uncheck Todo: Double-click on the check icon of a task to toggle its status between checked and unchecked. The task will be visually updated with a strike-through effect when checked.
+- __Check/Uncheck Todo__: Double-click on the check icon of a task to toggle its status between checked and unchecked. The task will be visually updated with a strike-through effect when checked.
 
-- Sort Todos: Drag and drop a todo item to reorder the list of todos according to your preference.
+- __Sort Todos__: Drag and drop a todo item to reorder the list of todos according to your preference.
 
-- Grid/List View: Click on the grid or list view icon to switch between grid and list view for displaying the todos.
+- __Grid/List View__: Click on the grid or list view icon to switch between grid and list view for displaying the todos.
 
 
 ## Technologies Used
 
-- React.js: A popular JavaScript library for building user interfaces.
+- __React.js__: A popular JavaScript library for building user interfaces.
 
-- React Hooks: Advanced features in React that allow for state management and side effects in functional components.
+- __React Hooks__: Advanced features in React that allow for state management and side effects in functional components.
 
-- useEffect: A Hook in React that allows for side effects, such as fetching data or subscribing to data updates, to be performed in a functional component.
+- __useEffect__: A Hook in React that allows for side effects, such as fetching data or subscribing to data updates, to be performed in a functional component.
 
-- useMemo: A Hook in React that allows for memoization of computed values, helping to optimize performance.
+- __useMemo__: A Hook in React that allows for memoization of computed values, helping to optimize performance.
 
-- useContext: A Hook in React that allows for accessing the context of a parent component in a child component without prop drilling.
+- __useContext__: A Hook in React that allows for accessing the context of a parent component in a child component without prop drilling.
 
-- useRef: A Hook in React that allows for creating a mutable reference to a value or DOM element that persists across renders.
+- __useRef__: A Hook in React that allows for creating a mutable reference to a value or DOM element that persists across renders.
 
-- Drag and Drop Library: A library used for implementing the drag and drop feature for sorting todos.
+- __Drag and Drop Library__: A library used for implementing the drag and drop feature for sorting todos.
