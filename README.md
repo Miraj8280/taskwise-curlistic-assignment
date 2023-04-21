@@ -23,7 +23,10 @@ TaskWise is a web application built using React.js and advanced React Hooks such
 ### Installation
 
 1. Clone the repository:
-`git clone https://github.com/Miraj8280/taskwise-curlistic-assignment.git`
+```
+git clone https://github.com/Miraj8280/taskwise-curlistic-assignment.git
+
+```
 
 2. Change to the project directory:
 `cd todo-app-curlistic-assignment`
